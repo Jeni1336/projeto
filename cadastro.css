@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-control{
+    border-radius: 20px;
+    width: 90%;
+}
+.logo{
+    margin-right: 40px;
+    margin-left: 10px;
+    
+}
+select{
+    border-radius: 10px;
+}
+img{
+    margin: 25px;
+}
+.btn{
+    background-color: #770624;
+    border-radius: 10px;
+    color: white;
+}
+.caixa{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 45px;
+    border-radius: 8px;
+    height: 120%;
+    width: 50%;   
+}
+.check{
+    color:#770624;
+    margin-left: 125px;
+}
+.termos{
+    color: #770624;
+}
+a{
+    color: white;
+}
+

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-control{
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+.btn{
+    background-color: #770624;
+    margin: 10px;
+    border-radius: 10px;
+    width: 100px;
+    color: white;
+}
+.caixa{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 45px;
+    border-radius: 8px;
+    height: 80%;
+    width: 50%;
+}
+.linkcad{
+    color: #770624;
+    margin: 130px;
+}
