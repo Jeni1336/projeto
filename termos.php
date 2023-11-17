@@ -23,12 +23,12 @@
                 <a class="cabecalho-item" href="notificacoes.html">Notificações <ion-icon class="icon" name="notifications-outline"></ion-icon></a>
               </li>
               <li class="nav-item">
-                <a class="cabecalho-item" href="telainicial.html">Inicio <ion-icon class="icon" name="home-outline"></ion-icon>
+                <a class="cabecalho-item" href="telainicial.php">Inicio <ion-icon class="icon" name="home-outline"></ion-icon>
               <li class="nav-item">
                 <a class="cabecalho-item" href="salvos.html">Salvos <ion-icon class="icon" name="heart-outline"></ion-icon></a>
               </li>
               <li class="nav-item">
-                <a class="cabecalho-item" href="suaconta.html">Sua Conta <ion-icon  class="icon" name="person-outline"></ion-icon></a>
+                <a class="cabecalho-item" href="suaconta.php">Minha Conta <ion-icon  class="icon" name="person-outline"></ion-icon></a>
               </li>
             </ul>
             <ion-icon class="icon-car" name="bag-check-outline">  <a href="carrinho.html"></a></ion-icon>
@@ -62,7 +62,7 @@
         3.2 Conformidade Legal: Reservamo-nos o direito de divulgar informações quando exigido por lei ou para proteger nossos direitos legais.
         </p>
 
-          <button type="submit" class="btn-2"><a href="cadastro.html"> Voltar </button>
+          <button type="submit" class="btn-2"><a href="cadastro.php"> Voltar </button>
         </div>
 
         <footer>

@@ -114,11 +114,11 @@ footer{
 
 
 #closeChatbot img {
+    cursor: pointer;
     width: 80px; /* Ajuste a largura conforme necessário */
 }
 
 #chatbotContainer {
-    cursor: pointer;
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -138,4 +138,6 @@ footer{
     right: 20px;
     width: 300px;
     z-index: 9999;
+    cursor: pointer;
+
 }
